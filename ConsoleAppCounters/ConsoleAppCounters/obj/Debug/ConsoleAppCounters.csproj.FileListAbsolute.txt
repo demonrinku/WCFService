@@ -1,0 +1,7 @@
+C:\Users\Rinku\Desktop\WCF\WCF\WCFService\ConsoleAppCounters\ConsoleAppCounters\bin\Debug\ConsoleAppCounters.exe.config
+C:\Users\Rinku\Desktop\WCF\WCF\WCFService\ConsoleAppCounters\ConsoleAppCounters\bin\Debug\ConsoleAppCounters.exe
+C:\Users\Rinku\Desktop\WCF\WCF\WCFService\ConsoleAppCounters\ConsoleAppCounters\bin\Debug\ConsoleAppCounters.pdb
+C:\Users\Rinku\Desktop\WCF\WCF\WCFService\ConsoleAppCounters\ConsoleAppCounters\obj\Debug\ConsoleAppCounters.csproj.AssemblyReference.cache
+C:\Users\Rinku\Desktop\WCF\WCF\WCFService\ConsoleAppCounters\ConsoleAppCounters\obj\Debug\ConsoleAppCounters.csproj.CoreCompileInputs.cache
+C:\Users\Rinku\Desktop\WCF\WCF\WCFService\ConsoleAppCounters\ConsoleAppCounters\obj\Debug\ConsoleAppCounters.exe
+C:\Users\Rinku\Desktop\WCF\WCF\WCFService\ConsoleAppCounters\ConsoleAppCounters\obj\Debug\ConsoleAppCounters.pdb

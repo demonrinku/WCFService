@@ -1,0 +1,7 @@
+C:\Users\Rinku\Desktop\WCF\WCF\WCFService\ZAQConsoleClient\ZAQConsoleClient\bin\Debug\ZAQConsoleClient.exe.config
+C:\Users\Rinku\Desktop\WCF\WCF\WCFService\ZAQConsoleClient\ZAQConsoleClient\bin\Debug\ZAQConsoleClient.exe
+C:\Users\Rinku\Desktop\WCF\WCF\WCFService\ZAQConsoleClient\ZAQConsoleClient\bin\Debug\ZAQConsoleClient.pdb
+C:\Users\Rinku\Desktop\WCF\WCF\WCFService\ZAQConsoleClient\ZAQConsoleClient\obj\Debug\ZAQConsoleClient.csproj.AssemblyReference.cache
+C:\Users\Rinku\Desktop\WCF\WCF\WCFService\ZAQConsoleClient\ZAQConsoleClient\obj\Debug\ZAQConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\Rinku\Desktop\WCF\WCF\WCFService\ZAQConsoleClient\ZAQConsoleClient\obj\Debug\ZAQConsoleClient.exe
+C:\Users\Rinku\Desktop\WCF\WCF\WCFService\ZAQConsoleClient\ZAQConsoleClient\obj\Debug\ZAQConsoleClient.pdb

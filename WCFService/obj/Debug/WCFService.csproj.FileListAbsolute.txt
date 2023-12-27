@@ -1,0 +1,7 @@
+C:\Users\Rinku\Desktop\WCF\WCF\WCFService\WCFService\bin\Debug\WCFService.dll.config
+C:\Users\Rinku\Desktop\WCF\WCF\WCFService\WCFService\bin\Debug\WCFService.dll
+C:\Users\Rinku\Desktop\WCF\WCF\WCFService\WCFService\bin\Debug\WCFService.pdb
+C:\Users\Rinku\Desktop\WCF\WCF\WCFService\WCFService\obj\Debug\WCFService.csproj.AssemblyReference.cache
+C:\Users\Rinku\Desktop\WCF\WCF\WCFService\WCFService\obj\Debug\WCFService.csproj.CoreCompileInputs.cache
+C:\Users\Rinku\Desktop\WCF\WCF\WCFService\WCFService\obj\Debug\WCFService.dll
+C:\Users\Rinku\Desktop\WCF\WCF\WCFService\WCFService\obj\Debug\WCFService.pdb

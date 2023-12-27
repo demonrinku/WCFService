@@ -1,0 +1,11 @@
+C:\Users\Rinku\Desktop\WCF\WCF\WCFService\WCFServiceHost\bin\Debug\WCFServiceHost.exe.config
+C:\Users\Rinku\Desktop\WCF\WCF\WCFService\WCFServiceHost\bin\Debug\WCFServiceHost.exe
+C:\Users\Rinku\Desktop\WCF\WCF\WCFService\WCFServiceHost\bin\Debug\WCFServiceHost.pdb
+C:\Users\Rinku\Desktop\WCF\WCF\WCFService\WCFServiceHost\bin\Debug\WCFService.dll
+C:\Users\Rinku\Desktop\WCF\WCF\WCFService\WCFServiceHost\bin\Debug\WCFService.pdb
+C:\Users\Rinku\Desktop\WCF\WCF\WCFService\WCFServiceHost\bin\Debug\WCFService.dll.config
+C:\Users\Rinku\Desktop\WCF\WCF\WCFService\WCFServiceHost\obj\Debug\WCFServiceHost.csproj.AssemblyReference.cache
+C:\Users\Rinku\Desktop\WCF\WCF\WCFService\WCFServiceHost\obj\Debug\WCFServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\Rinku\Desktop\WCF\WCF\WCFService\WCFServiceHost\obj\Debug\WCFServiceHost.csproj.CopyComplete
+C:\Users\Rinku\Desktop\WCF\WCF\WCFService\WCFServiceHost\obj\Debug\WCFServiceHost.exe
+C:\Users\Rinku\Desktop\WCF\WCF\WCFService\WCFServiceHost\obj\Debug\WCFServiceHost.pdb
